@@ -1,0 +1,21 @@
+body {
+  background-color: #f5deb3;
+  color: #8b4513;
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: justify;
+}
+
+#navpics {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+.bold {
+}
